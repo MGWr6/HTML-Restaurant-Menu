@@ -52,8 +52,12 @@ nav a:hover {
     color: darkred;
 }
 
-#banner {
+nav {
     width: 100%;
+}
+
+#banner {
+    width: 50%;
     height: auto;
     background-color: white;
 }
