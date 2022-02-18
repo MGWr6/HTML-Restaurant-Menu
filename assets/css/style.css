@@ -62,6 +62,12 @@ nav {
     background-color: white;
 }
 
+#banner2 {
+    width: 82%;
+    height: auto;
+    background-color: white;
+}
+
 #banner img {
     width: 60%;
     height: auto;
