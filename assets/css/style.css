@@ -37,9 +37,19 @@ nav ul {
     text-align: center;
 }
 
+nav ul {
+    list-style-type: none;
+  }
+
 nav li {
     display: inline;
 }
+
+ul {
+    list-style-type: none;
+    text-align: center;
+  }
+
 
 nav a {
     text-decoration: none;
